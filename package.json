@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crystalpanther/ababila.git"
+    "url": "git+https://github.com/crystalpanther/ababila_store.git"
   },
   "author": "Elina Dzhelilova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/crystalpanther/ababila/issues"
+    "url": "https://github.com/crystalpanther/ababila-store/issues"
   },
-  "homepage": "https://github.com/crystalpanther/ababila#readme",
+  "homepage": "https://github.com/crystalpanther/ababila_store#readme",
   "devDependencies": {
     "browser-sync": "^2.24.5",
     "del": "^3.0.0",
